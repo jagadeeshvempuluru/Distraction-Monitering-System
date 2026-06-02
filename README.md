@@ -80,7 +80,8 @@ markdown
 
 ### 📝 Register Page
 
-<img width="1899" height="909" alt="Registerpage" src="https://github.com/user-attachments/assets/5759bcf0-963f-4ba4-8ad8-c4047e4cbcfd" />
+<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/f3051fa4-cc39-47b3-ae53-2cb56a213bc0" />
+
 
 
 
