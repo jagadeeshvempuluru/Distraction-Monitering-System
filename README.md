@@ -72,7 +72,7 @@ DistractionProject
 
 ### 🔐 Login Page
 
-<img width="1903" height="908" alt="image" src="https://github.com/user-attachments/assets/c564fd71-90e9-4661-9cea-c1ac2a7c48d9" />
+<img width="1903" height="908" alt="image" src="https://github.com/user-attachments/assets/cc01f3f6-711f-4153-832c-9755b93325d3" />
 
 
 
