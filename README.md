@@ -72,8 +72,8 @@ DistractionProject
 
 ### 🔐 Login Page
 
-markdown
-<img width="1903" height="908" alt="LoginPage" src="https://github.com/user-attachments/assets/d0569341-8232-4f2d-9c4f-eaacb8e6190a" />
+<img width="1903" height="908" alt="image" src="https://github.com/user-attachments/assets/c564fd71-90e9-4661-9cea-c1ac2a7c48d9" />
+
 
 
 ---
