@@ -67,32 +67,29 @@ DistractionProject
 └── database
 
 
-
 ## 📸 Application Screenshots
 
 ### 🔐 Login Page
 
-<img width="1903" height="908" alt="image" src="https://github.com/user-attachments/assets/cc01f3f6-711f-4153-832c-9755b93325d3" />
-
-
+![Login Page](ApplicationScreenshot/LoginPage.png)
 
 ---
 
 ### 📝 Register Page
 
-<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/f3051fa4-cc39-47b3-ae53-2cb56a213bc0" />
+![Register Page](ApplicationScreenshot/Registerpage.png)
 
-
-
+---
 
 ### 📊 Dashboard Page
 
-<img width="1897" height="930" alt="DashBoard" src="https://github.com/user-attachments/assets/dbdea96c-221d-4011-b95f-97ca9c2311e2" />
+![Dashboard Page](ApplicationScreenshot/DashBoard.png)
 
+---
 
 ### ➕ Add Distraction Page
 
-<img width="1889" height="907" alt="DistractionPage" src="https://github.com/user-attachments/assets/ecbdfb95-2b5e-49c0-8049-c5769628d82c" />
+![Add Distraction Page](ApplicationScreenshot/DistractionPage.png)
 
 
 ## ⚙️ Database Configuration
